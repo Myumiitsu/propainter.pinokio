@@ -1,0 +1,7 @@
+{
+  "title":       "ProPainter",
+  "description": "ICCV‑23 video in‑/out‑painting",
+  "icon":        "icon.png",
+  "install":     "install.js",
+  "start":       "start.js"
+}
